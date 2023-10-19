@@ -1,5 +1,6 @@
 # flights_delay_analysis
-This is the analysis of flight delay data available in public. I have structured the notebook to answers the questions below:
+This is the analysis of flight delay data available in public. I have structured the notebook to do the following:
+
 Exploration of the flight data to analyze possible factors that affect delays in departure or arrival of a flight.
 
 1. Start by cleaning the data.
@@ -16,4 +17,5 @@ Exploration of the flight data to analyze possible factors that affect delays in
 	- Do late departures tend to result in longer arrival delays than on-time departures?
 	- Which route (from origin airport to destination airport) has the most late arrivals?
 	- Which route has the highest average arrival delay?
+
 Click here to go to the [notebook](flights.ipynb)
