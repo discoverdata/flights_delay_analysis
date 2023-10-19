@@ -16,3 +16,4 @@ Exploration of the flight data to analyze possible factors that affect delays in
 	- Do late departures tend to result in longer arrival delays than on-time departures?
 	- Which route (from origin airport to destination airport) has the most late arrivals?
 	- Which route has the highest average arrival delay?
+Click here to go to the [notebook](flights.ipynb)
